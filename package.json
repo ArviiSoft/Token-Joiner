@@ -1,0 +1,33 @@
+{
+  "name": "arviis-token-joiner-activator",
+  "version": "9.9.9",
+  "description": "arviis. - Token Joiner",
+  "main": "arvis.js",
+  "scripts": {
+    "arvis:dev": "nodemon arvis.js",
+    "test": "node arvis.js"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArviiSoft/Token-Joiner-Activator.git"
+  },
+
+  "author": "arviis.",
+  "license": "MIT",
+
+  "bugs": {
+    "url": "https://github.com/ArviiSoft/Token-Joiner/issues"
+  },
+
+  "homepage": "https://github.com/ArviiSoft/Token-Joiner#readme",
+  "dependencies": {
+    "2captcha": "^3.0.5",
+    "chalk": "^4.1.2",
+    "discord.js-selfbot-v13": "^2.13.2",
+    "gradient-string": "^2.0.2",
+    "https-proxy-agent": "5.0.1",
+    "node-capmonster": "^0.4.2",
+    "nodemon": "^2.0.22"
+  }
+}
