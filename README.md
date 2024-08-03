@@ -5,6 +5,8 @@
 
 # 💵・Hatalarla Uğraşmak İstemiyorsanız Satın Alabilirsiniz
 https://www.itemsatis.com/discord/token-joiner-1790463.html
+
+https://www.itempazar.com/discord-uye-nitro-sunucu/token-joiner-116371
 # 
 #
 
